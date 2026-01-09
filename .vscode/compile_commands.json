@@ -1,0 +1,32 @@
+[
+    {
+        "command": "cc -Wall -Wextra -pedantic -std=c17 -g -fdiagnostics-color -Werror -g3 -O0 -DDEBUG -Ilibs/sed/include -Ilibs/queue/include -Ilibs/base64/include -Iinclude -I/usr/include/cjson   -c src/main.c -o build/debug/src/main.o",
+        "directory": "/home/tui00/Projects/Languages/C/tejoy",
+        "file": "/home/tui00/Projects/Languages/C/tejoy/src/main.c"
+    },
+    {
+        "command": "cc -Wall -Wextra -pedantic -std=c17 -g -fdiagnostics-color -Werror -g3 -O0 -DDEBUG -Ilibs/sed/include -Ilibs/queue/include -Ilibs/base64/include -Iinclude -I/usr/include/cjson   -c src/modules/network.c -o build/debug/src/modules/network.o",
+        "directory": "/home/tui00/Projects/Languages/C/tejoy",
+        "file": "/home/tui00/Projects/Languages/C/tejoy/src/modules/network.c"
+    },
+    {
+        "command": "cc -Wall -Wextra -pedantic -std=c17 -g -fdiagnostics-color -Werror -g3 -O0 -DDEBUG -Ilibs/sed/include -Ilibs/queue/include -Ilibs/base64/include -Iinclude -I/usr/include/cjson   -c src/modules/packets.c -o build/debug/src/modules/packets.o",
+        "directory": "/home/tui00/Projects/Languages/C/tejoy",
+        "file": "/home/tui00/Projects/Languages/C/tejoy/src/modules/packets.c"
+    },
+    {
+        "command": "cc -Wall -Wextra -pedantic -std=c17 -g -fdiagnostics-color -Werror -g3 -O0 -DDEBUG -Ilibs/sed/include -Ilibs/queue/include -Ilibs/base64/include -Iinclude -I/usr/include/cjson   -c libs/sed/src/sed.c -o build/debug/libs/sed/src/sed.o",
+        "directory": "/home/tui00/Projects/Languages/C/tejoy",
+        "file": "/home/tui00/Projects/Languages/C/tejoy/libs/sed/src/sed.c"
+    },
+    {
+        "command": "cc -Wall -Wextra -pedantic -std=c17 -g -fdiagnostics-color -Werror -g3 -O0 -DDEBUG -Ilibs/sed/include -Ilibs/queue/include -Ilibs/base64/include -Iinclude -I/usr/include/cjson   -c libs/queue/src/queue.c -o build/debug/libs/queue/src/queue.o",
+        "directory": "/home/tui00/Projects/Languages/C/tejoy",
+        "file": "/home/tui00/Projects/Languages/C/tejoy/libs/queue/src/queue.c"
+    },
+    {
+        "command": "cc -Wall -Wextra -pedantic -std=c17 -g -fdiagnostics-color -Werror -g3 -O0 -DDEBUG -Ilibs/sed/include -Ilibs/queue/include -Ilibs/base64/include -Iinclude -I/usr/include/cjson   -c libs/base64/src/base64.c -o build/debug/libs/base64/src/base64.o",
+        "directory": "/home/tui00/Projects/Languages/C/tejoy",
+        "file": "/home/tui00/Projects/Languages/C/tejoy/libs/base64/src/base64.c"
+    }
+]
